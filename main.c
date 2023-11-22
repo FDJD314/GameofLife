@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define MATSIZE 150
+#define MATSIZE 20
 #define DISPSIZE (MATSIZE*(MATSIZE+1))
 
 struct linesumpara
